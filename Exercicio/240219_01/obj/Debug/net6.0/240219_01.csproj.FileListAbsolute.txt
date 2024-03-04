@@ -13,3 +13,4 @@ C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\refin
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\240219_01.pdb
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\240219_01.genruntimeconfig.cache
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\ref\240219_01.dll
+C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\240219_01.sourcelink.json
