@@ -1,0 +1,15 @@
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\bin\Debug\net8.0\Atividade_240304.exe
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\bin\Debug\net8.0\Atividade_240304.deps.json
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\bin\Debug\net8.0\Atividade_240304.runtimeconfig.json
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\bin\Debug\net8.0\Atividade_240304.dll
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\bin\Debug\net8.0\Atividade_240304.pdb
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.AssemblyInfoInputs.cache
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.AssemblyInfo.cs
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.csproj.CoreCompileInputs.cache
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.sourcelink.json
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.dll
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\refint\Atividade_240304.dll
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.pdb
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\Atividade_240304.genruntimeconfig.cache
+C:\Users\386188\Desktop\Lucas Zanotto\Atividades01\Atividade_240304\obj\Debug\net8.0\ref\Atividade_240304.dll
