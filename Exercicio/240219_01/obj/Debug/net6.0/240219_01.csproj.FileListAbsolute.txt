@@ -3,7 +3,6 @@ C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\bin\Debug\net6.0\24021
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\bin\Debug\net6.0\240219_01.runtimeconfig.json
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\bin\Debug\net6.0\240219_01.dll
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\bin\Debug\net6.0\240219_01.pdb
-C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\240219_01.csproj.AssemblyReference.cache
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\240219_01.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\240219_01.AssemblyInfoInputs.cache
 C:\Users\386188\Desktop\Lucas Zanotto\Exercicio\240219_01\obj\Debug\net6.0\240219_01.AssemblyInfo.cs
