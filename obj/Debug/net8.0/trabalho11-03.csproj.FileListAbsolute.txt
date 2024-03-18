@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\bin\Debug\net8.0\trabalho11-03.exe
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\bin\Debug\net8.0\trabalho11-03.deps.json
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\bin\Debug\net8.0\trabalho11-03.runtimeconfig.json
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\bin\Debug\net8.0\trabalho11-03.dll
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\bin\Debug\net8.0\trabalho11-03.pdb
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\trabalho11-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\trabalho11-03.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\trabalho11-03.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\trabalho11-03.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\trabalho11-03.dll
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\refint\trabalho11-03.dll
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\trabalho11-03.pdb
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\trabalho11-03.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\arquivos que não deveriam estar aqui\faculdade_aprender\trabalho11-03\obj\Debug\net8.0\ref\trabalho11-03.dll
